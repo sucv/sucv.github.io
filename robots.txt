@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sucv.github.io/sitemap.xml
+Sitemap: https://logx.xyz/sitemap.xml
