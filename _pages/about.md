@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -18,8 +18,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am Su ZHANG, a humble research fellow from the School of Computer Science and Engineering, Nanyang Technological University, Singapore. This is my homepage.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I obtained a bachelor's degree from the College of Chemistry and Chemical Engineering, Xiamen University in 2013. In addition to the certificate of degree, there are two precious things I got during that time: the understanding of "Science," and the faith in life, thanks to the bravery and persistence of those respectable professors at XMU.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+After which, I decided to change my major to computer science. So, I became a sitting-in student and attended several core courses of computer science for undergraduates at XMU. That was an amazing yet bitter experience because I walked on an unknown path, outside the system. I was totally an eager young man for every course I attended, which was in sharp contrast to what I once was before I graduated. Humans are strange, no? One would not be grateful for what they have until they lose it!
+
+I obtained my master's degree from the School of Information, Yunnan Normal University in 2018. My research interests back then were feature matching, point set registration, and image registration, and their applications in remote sensing. Though YNNU is not a prestigious university, I had a fruitful, proud, and happy three-year master's life thanks to my then-supervisor Prof. Yang.
+
+I obtained my PhD degree from the School of Computer Science and Engineering, Nanyang Technological University in 2023. My research interests cover emotion recognition, multimodality, and deep learning. My PhD life made me realize that I have no interest or talent to move up in the world, nor is it a shame to be an ordinary person. The most cheerful achievement I have accomplished so far is the understanding of Research Integrity. I know the evil is right in the mirror, and I am attempting to withstand him.
