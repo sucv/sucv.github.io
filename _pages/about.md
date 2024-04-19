@@ -14,7 +14,7 @@ profile:
     <p>Siofra River, Night Sky 48156</p>
 
 news: false # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
@@ -26,4 +26,4 @@ After which, I decided to change my major to computer science. So, I became a si
 
 I obtained my master's degree from the School of Information, Yunnan Normal University in 2018. My research interests back then were feature matching, point set registration, and image registration, and their applications in remote sensing. Though YNNU is not a prestigious university, I had a fruitful, proud, and happy three-year master's life thanks to my then-supervisor Prof. Yang.
 
-I obtained my PhD degree from the School of Computer Science and Engineering, Nanyang Technological University in 2023. My research interests cover emotion recognition, multimodality, and deep learning. My PhD life made me realize that I have no interest or talent to move up in the world, nor is it a shame to be an ordinary person. The most cheerful achievement I have accomplished so far is the understanding of Research Integrity. I know the evil is right in the mirror, and I am attempting to withstand him.
+I obtained my PhD degree from the School of Computer Science and Engineering, Nanyang Technological University in 2023. My research interests cover emotion recognition, multimodality, and deep learning. My PhD life made me realize that I have no interest and talent to move up in the world, nor is it a shame to be an ordinary person. The most cheerful achievement I have accomplished so far is the understanding of Research Integrity. I know the evil is right in the mirror, and I am attempting to withstand him.
