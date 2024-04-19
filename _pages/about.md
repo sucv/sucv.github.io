@@ -9,9 +9,9 @@ profile:
   image: bonefire.gif
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>210 Spiritcaller Cave</p>
+    <p>602 Nokron Eternal City</p>
+    <p>Siofra River, Night Sky 48156</p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
